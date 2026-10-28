@@ -1,0 +1,53 @@
+{
+  "library": "prompt-optimizer",
+  "artifact_version": "1.0.1",
+  "encoding": "utf-8",
+  "line_endings": "lf",
+  "hash_scope": "Canonical module bytes consumed by the compiler; not raw-file bytes and not a provider cache identity.",
+  "canonicalization": {
+    "text": "Decode UTF-8; convert CRLF and CR to LF; strip trailing whitespace per line; strip outer whitespace; no terminal newline.",
+    "json": "Decode UTF-8 JSON; serialize sorted keys with compact separators and ensure_ascii=false; append one LF."
+  },
+  "stable_order": [
+    {
+      "id": "core-system",
+      "path": "00-system.md",
+      "kind": "text",
+      "version": "1.0.1",
+      "sha256": "cbafd118acaeb81572fda8e7766b2c075d884496f9adb76ab7250369fe1f3b26"
+    },
+    {
+      "id": "quality-safety-gate",
+      "path": "10-quality-gate.md",
+      "kind": "text",
+      "version": "1.0.0",
+      "sha256": "9ffbaff5f6a043618332fc02cf9c4dd936443eedae27a94d688ac021d7a15b35"
+    },
+    {
+      "id": "output-contract",
+      "path": "20-output-contract.md",
+      "kind": "text",
+      "version": "1.0.0",
+      "sha256": "9da054b117f11312022985707cba07fdceec3e0255591a6e2903ac19932eeeaf"
+    }
+  ],
+  "optional_stable_slots": [
+    "task-family-tool-definitions",
+    "external-output-schema",
+    "eval-proven-examples",
+    "stable-reference-context"
+  ],
+  "external_stable_inputs": {
+    "model": "--model",
+    "tools": "--tools-json",
+    "structured_output": "--text-format-json",
+    "stable_reference_data": "--stable-reference-file"
+  },
+  "dynamic_suffix_order": [
+    "retrieved-or-runtime-context",
+    "current-identifiers-and-state",
+    "final-user-task-and-acceptance-criteria"
+  ],
+  "cache_breakpoint_after": "last-stable-module",
+  "version_rule": "Change a module or its order, increment its version and artifact_version, update hashes, and use a new cache-key namespace."
+}

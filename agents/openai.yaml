@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prompt & Cache-Readiness Optimizer"
+  short_description: "Clear prompts and practical cache-readiness plans"
+  default_prompt: "Use $prompt-optimizer to clarify this request and, if it recurs, identify reusable context and prepare a provider-specific cache measurement plan."

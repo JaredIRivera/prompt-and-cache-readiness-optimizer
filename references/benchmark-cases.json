@@ -1,0 +1,98 @@
+{
+  "benchmark_version": "1.0.0",
+  "model_for_live_run": "gpt-5.6-sol",
+  "service_tier": "standard",
+  "local_tokenizer_encoding": "o200k_base",
+  "cache_minimum_tokens": 1024,
+  "cache_policy": {
+    "mode": "explicit",
+    "ttl": "30m"
+  },
+  "price_snapshot_date": "2026-07-26",
+  "price_source_url": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
+  "pricing_scope": "standard-tier requests at or below 272,000 input tokens",
+  "prices_per_million_tokens": {
+    "uncached_input": 5.0,
+    "cached_read": 0.5,
+    "cache_write": 6.25,
+    "output": 30.0
+  },
+  "families": [
+    {
+      "id": "short-prompt-rewrite",
+      "stable_context_path": null,
+      "stable_module_ids": [
+        "core-system"
+      ],
+      "baseline_contract": "You are an expert prompt engineer. Please carefully transform the user's raw request into a clear prompt. Make sure that you preserve every important fact, constraint, safety requirement, authorization boundary, and output requirement. Do not provide a long explanation of your process. Return the improved prompt.",
+      "optimized_contract": "Rewrite the dynamic request as a concise prompt.",
+      "telegraphic_contract": "Rewrite dynamic request. Prompt only.",
+      "requests": [
+        {
+          "text": "Please rewrite our launch note in a calm professional tone. Keep August 4, support@example.com, and the 90-word maximum. Do not promise refunds.",
+          "required_literals": [
+            "August 4",
+            "support@example.com",
+            "90-word",
+            "Do not promise refunds"
+          ]
+        },
+        {
+          "text": "Turn these notes into valid JSON with only name, amount_usd, and due_date. Preserve ACME-17, 1250.50, and 2026-08-31. Never infer missing fields.",
+          "required_literals": [
+            "name",
+            "amount_usd",
+            "due_date",
+            "ACME-17",
+            "1250.50",
+            "2026-08-31"
+          ]
+        },
+        {
+          "text": "Draft a safe troubleshooting answer for a user who cannot access an account. Do not claim identity verification was completed and do not request passwords. Give three steps.",
+          "required_literals": [
+            "Do not claim identity verification was completed",
+            "do not request passwords",
+            "three steps"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "long-grounded-qa",
+      "stable_context_path": "evidence.md",
+      "stable_module_ids": [
+        "core-system",
+        "quality-safety-gate"
+      ],
+      "baseline_contract": "You are a careful research assistant. Your job is to answer the user's question by using only the supplied evidence. Please make sure every claim is supported, preserve qualifications and study limitations, include the relevant source links, and say that something is not established when the evidence does not establish it. Do not reveal private chain-of-thought. Provide exactly three concise bullets.",
+      "optimized_contract": "Answer from the supplied evidence only. Preserve caveats and source links. If unsupported, say \"Not established.\" Return exactly three concise bullets.",
+      "telegraphic_contract": "Evidence only. Keep caveats, links. Missing: \"Not established.\" Three bullets.",
+      "requests": [
+        {
+          "text": "Does current evidence justify making telegraphic or caveman wording the default for GPT-5.6 prompts?",
+          "required_literals": [
+            "telegraphic",
+            "caveman",
+            "GPT-5.6"
+          ]
+        },
+        {
+          "text": "Which prompt components should remain stable, and what belongs in the dynamic suffix?",
+          "required_literals": [
+            "stable",
+            "dynamic suffix"
+          ]
+        },
+        {
+          "text": "What must a production benchmark measure before claiming lower cost and latency without lower quality?",
+          "required_literals": [
+            "lower cost",
+            "latency",
+            "quality"
+          ]
+        }
+      ]
+    }
+  ]
+}

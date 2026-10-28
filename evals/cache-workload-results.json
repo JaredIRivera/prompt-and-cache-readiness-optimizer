@@ -1,0 +1,1189 @@
+{
+  "started_utc": "2026-10-27T00:42:10.978163+00:00",
+  "model": "gpt-6.1-sol",
+  "records": [
+    {
+      "id": "ITEM-001",
+      "amount": 1017,
+      "owner": "Team-01",
+      "status": "active",
+      "note": "Reference file 001; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-002",
+      "amount": 1034,
+      "owner": "Team-02",
+      "status": "pending",
+      "note": "Reference file 002; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-003",
+      "amount": 1051,
+      "owner": "Team-03",
+      "status": "active",
+      "note": "Reference file 003; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-004",
+      "amount": 1068,
+      "owner": "Team-04",
+      "status": "pending",
+      "note": "Reference file 004; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-005",
+      "amount": 1085,
+      "owner": "Team-05",
+      "status": "active",
+      "note": "Reference file 005; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-006",
+      "amount": 1102,
+      "owner": "Team-06",
+      "status": "pending",
+      "note": "Reference file 006; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-007",
+      "amount": 1119,
+      "owner": "Team-07",
+      "status": "active",
+      "note": "Reference file 007; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-008",
+      "amount": 1136,
+      "owner": "Team-08",
+      "status": "pending",
+      "note": "Reference file 008; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-009",
+      "amount": 1153,
+      "owner": "Team-09",
+      "status": "active",
+      "note": "Reference file 009; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-010",
+      "amount": 1170,
+      "owner": "Team-10",
+      "status": "pending",
+      "note": "Reference file 010; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-011",
+      "amount": 1187,
+      "owner": "Team-11",
+      "status": "active",
+      "note": "Reference file 011; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-012",
+      "amount": 1204,
+      "owner": "Team-12",
+      "status": "pending",
+      "note": "Reference file 012; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-013",
+      "amount": 1221,
+      "owner": "Team-00",
+      "status": "active",
+      "note": "Reference file 013; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-014",
+      "amount": 1238,
+      "owner": "Team-01",
+      "status": "pending",
+      "note": "Reference file 014; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-015",
+      "amount": 1255,
+      "owner": "Team-02",
+      "status": "active",
+      "note": "Reference file 015; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-016",
+      "amount": 1272,
+      "owner": "Team-03",
+      "status": "pending",
+      "note": "Reference file 016; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-017",
+      "amount": 1289,
+      "owner": "Team-04",
+      "status": "active",
+      "note": "Reference file 017; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-018",
+      "amount": 1306,
+      "owner": "Team-05",
+      "status": "pending",
+      "note": "Reference file 018; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-019",
+      "amount": 1323,
+      "owner": "Team-06",
+      "status": "active",
+      "note": "Reference file 019; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-020",
+      "amount": 1340,
+      "owner": "Team-07",
+      "status": "pending",
+      "note": "Reference file 020; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-021",
+      "amount": 1357,
+      "owner": "Team-08",
+      "status": "active",
+      "note": "Reference file 021; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-022",
+      "amount": 1374,
+      "owner": "Team-09",
+      "status": "pending",
+      "note": "Reference file 022; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-023",
+      "amount": 1391,
+      "owner": "Team-10",
+      "status": "active",
+      "note": "Reference file 023; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-024",
+      "amount": 1408,
+      "owner": "Team-11",
+      "status": "pending",
+      "note": "Reference file 024; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-025",
+      "amount": 1425,
+      "owner": "Team-12",
+      "status": "active",
+      "note": "Reference file 025; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-026",
+      "amount": 1442,
+      "owner": "Team-00",
+      "status": "pending",
+      "note": "Reference file 026; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-027",
+      "amount": 1459,
+      "owner": "Team-01",
+      "status": "active",
+      "note": "Reference file 027; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-028",
+      "amount": 1476,
+      "owner": "Team-02",
+      "status": "pending",
+      "note": "Reference file 028; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-029",
+      "amount": 1493,
+      "owner": "Team-03",
+      "status": "active",
+      "note": "Reference file 029; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-030",
+      "amount": 1510,
+      "owner": "Team-04",
+      "status": "pending",
+      "note": "Reference file 030; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-031",
+      "amount": 1527,
+      "owner": "Team-05",
+      "status": "active",
+      "note": "Reference file 031; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-032",
+      "amount": 1544,
+      "owner": "Team-06",
+      "status": "pending",
+      "note": "Reference file 032; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-033",
+      "amount": 1561,
+      "owner": "Team-07",
+      "status": "active",
+      "note": "Reference file 033; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-034",
+      "amount": 1578,
+      "owner": "Team-08",
+      "status": "pending",
+      "note": "Reference file 034; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-035",
+      "amount": 1595,
+      "owner": "Team-09",
+      "status": "active",
+      "note": "Reference file 035; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-036",
+      "amount": 1612,
+      "owner": "Team-10",
+      "status": "pending",
+      "note": "Reference file 036; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-037",
+      "amount": 1629,
+      "owner": "Team-11",
+      "status": "active",
+      "note": "Reference file 037; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-038",
+      "amount": 1646,
+      "owner": "Team-12",
+      "status": "pending",
+      "note": "Reference file 038; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-039",
+      "amount": 1663,
+      "owner": "Team-00",
+      "status": "active",
+      "note": "Reference file 039; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-040",
+      "amount": 1680,
+      "owner": "Team-01",
+      "status": "pending",
+      "note": "Reference file 040; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-041",
+      "amount": 1697,
+      "owner": "Team-02",
+      "status": "active",
+      "note": "Reference file 041; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-042",
+      "amount": 1714,
+      "owner": "Team-03",
+      "status": "pending",
+      "note": "Reference file 042; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-043",
+      "amount": 1731,
+      "owner": "Team-04",
+      "status": "active",
+      "note": "Reference file 043; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-044",
+      "amount": 1748,
+      "owner": "Team-05",
+      "status": "pending",
+      "note": "Reference file 044; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-045",
+      "amount": 1765,
+      "owner": "Team-06",
+      "status": "active",
+      "note": "Reference file 045; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-046",
+      "amount": 1782,
+      "owner": "Team-07",
+      "status": "pending",
+      "note": "Reference file 046; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-047",
+      "amount": 1799,
+      "owner": "Team-08",
+      "status": "active",
+      "note": "Reference file 047; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-048",
+      "amount": 1816,
+      "owner": "Team-09",
+      "status": "pending",
+      "note": "Reference file 048; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-049",
+      "amount": 1833,
+      "owner": "Team-10",
+      "status": "active",
+      "note": "Reference file 049; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-050",
+      "amount": 1850,
+      "owner": "Team-11",
+      "status": "pending",
+      "note": "Reference file 050; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-051",
+      "amount": 1867,
+      "owner": "Team-12",
+      "status": "active",
+      "note": "Reference file 051; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-052",
+      "amount": 1884,
+      "owner": "Team-00",
+      "status": "pending",
+      "note": "Reference file 052; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-053",
+      "amount": 1901,
+      "owner": "Team-01",
+      "status": "active",
+      "note": "Reference file 053; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-054",
+      "amount": 1918,
+      "owner": "Team-02",
+      "status": "pending",
+      "note": "Reference file 054; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-055",
+      "amount": 1935,
+      "owner": "Team-03",
+      "status": "active",
+      "note": "Reference file 055; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-056",
+      "amount": 1952,
+      "owner": "Team-04",
+      "status": "pending",
+      "note": "Reference file 056; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-057",
+      "amount": 1969,
+      "owner": "Team-05",
+      "status": "active",
+      "note": "Reference file 057; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-058",
+      "amount": 1986,
+      "owner": "Team-06",
+      "status": "pending",
+      "note": "Reference file 058; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-059",
+      "amount": 2003,
+      "owner": "Team-07",
+      "status": "active",
+      "note": "Reference file 059; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-060",
+      "amount": 2020,
+      "owner": "Team-08",
+      "status": "pending",
+      "note": "Reference file 060; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-061",
+      "amount": 2037,
+      "owner": "Team-09",
+      "status": "active",
+      "note": "Reference file 061; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-062",
+      "amount": 2054,
+      "owner": "Team-10",
+      "status": "pending",
+      "note": "Reference file 062; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-063",
+      "amount": 2071,
+      "owner": "Team-11",
+      "status": "active",
+      "note": "Reference file 063; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-064",
+      "amount": 2088,
+      "owner": "Team-12",
+      "status": "pending",
+      "note": "Reference file 064; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-065",
+      "amount": 2105,
+      "owner": "Team-00",
+      "status": "active",
+      "note": "Reference file 065; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-066",
+      "amount": 2122,
+      "owner": "Team-01",
+      "status": "pending",
+      "note": "Reference file 066; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-067",
+      "amount": 2139,
+      "owner": "Team-02",
+      "status": "active",
+      "note": "Reference file 067; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-068",
+      "amount": 2156,
+      "owner": "Team-03",
+      "status": "pending",
+      "note": "Reference file 068; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-069",
+      "amount": 2173,
+      "owner": "Team-04",
+      "status": "active",
+      "note": "Reference file 069; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-070",
+      "amount": 2190,
+      "owner": "Team-05",
+      "status": "pending",
+      "note": "Reference file 070; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-071",
+      "amount": 2207,
+      "owner": "Team-06",
+      "status": "active",
+      "note": "Reference file 071; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-072",
+      "amount": 2224,
+      "owner": "Team-07",
+      "status": "pending",
+      "note": "Reference file 072; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-073",
+      "amount": 2241,
+      "owner": "Team-08",
+      "status": "active",
+      "note": "Reference file 073; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-074",
+      "amount": 2258,
+      "owner": "Team-09",
+      "status": "pending",
+      "note": "Reference file 074; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-075",
+      "amount": 2275,
+      "owner": "Team-10",
+      "status": "active",
+      "note": "Reference file 075; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-076",
+      "amount": 2292,
+      "owner": "Team-11",
+      "status": "pending",
+      "note": "Reference file 076; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-077",
+      "amount": 2309,
+      "owner": "Team-12",
+      "status": "active",
+      "note": "Reference file 077; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-078",
+      "amount": 2326,
+      "owner": "Team-00",
+      "status": "pending",
+      "note": "Reference file 078; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-079",
+      "amount": 2343,
+      "owner": "Team-01",
+      "status": "active",
+      "note": "Reference file 079; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-080",
+      "amount": 2360,
+      "owner": "Team-02",
+      "status": "pending",
+      "note": "Reference file 080; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-081",
+      "amount": 2377,
+      "owner": "Team-03",
+      "status": "active",
+      "note": "Reference file 081; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-082",
+      "amount": 2394,
+      "owner": "Team-04",
+      "status": "pending",
+      "note": "Reference file 082; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-083",
+      "amount": 2411,
+      "owner": "Team-05",
+      "status": "active",
+      "note": "Reference file 083; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-084",
+      "amount": 2428,
+      "owner": "Team-06",
+      "status": "pending",
+      "note": "Reference file 084; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-085",
+      "amount": 2445,
+      "owner": "Team-07",
+      "status": "active",
+      "note": "Reference file 085; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-086",
+      "amount": 2462,
+      "owner": "Team-08",
+      "status": "pending",
+      "note": "Reference file 086; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-087",
+      "amount": 2479,
+      "owner": "Team-09",
+      "status": "active",
+      "note": "Reference file 087; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-088",
+      "amount": 2496,
+      "owner": "Team-10",
+      "status": "pending",
+      "note": "Reference file 088; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-089",
+      "amount": 2513,
+      "owner": "Team-11",
+      "status": "active",
+      "note": "Reference file 089; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-090",
+      "amount": 2530,
+      "owner": "Team-12",
+      "status": "pending",
+      "note": "Reference file 090; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-091",
+      "amount": 2547,
+      "owner": "Team-00",
+      "status": "active",
+      "note": "Reference file 091; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-092",
+      "amount": 2564,
+      "owner": "Team-01",
+      "status": "pending",
+      "note": "Reference file 092; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-093",
+      "amount": 2581,
+      "owner": "Team-02",
+      "status": "active",
+      "note": "Reference file 093; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-094",
+      "amount": 2598,
+      "owner": "Team-03",
+      "status": "pending",
+      "note": "Reference file 094; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-095",
+      "amount": 2615,
+      "owner": "Team-04",
+      "status": "active",
+      "note": "Reference file 095; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-096",
+      "amount": 2632,
+      "owner": "Team-05",
+      "status": "pending",
+      "note": "Reference file 096; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-097",
+      "amount": 2649,
+      "owner": "Team-06",
+      "status": "active",
+      "note": "Reference file 097; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-098",
+      "amount": 2666,
+      "owner": "Team-07",
+      "status": "pending",
+      "note": "Reference file 098; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-099",
+      "amount": 2683,
+      "owner": "Team-08",
+      "status": "active",
+      "note": "Reference file 099; verify record identifier before returning the requested amount."
+    },
+    {
+      "id": "ITEM-100",
+      "amount": 2700,
+      "owner": "Team-09",
+      "status": "pending",
+      "note": "Reference file 100; verify record identifier before returning the requested amount."
+    }
+  ],
+  "method": "24 independent requests; two prompt orders; 12 matched tasks each; three four-call blocks per order; one serial caller; no cache clearing; alternate block order",
+  "results": [
+    {
+      "block": 1,
+      "step": 1,
+      "arm": "changing-first",
+      "expected": {
+        "id": "ITEM-001",
+        "amount": 1017
+      },
+      "answer": "{\"id\":\"ITEM-001\",\"amount\":1017}",
+      "passed": true,
+      "exit_code": 0,
+      "usage": {
+        "input_tokens": 24713,
+        "cached_input_tokens": 13440,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 16,
+        "reasoning_output_tokens": 0
+      },
+      "wall_seconds": 5.312
+    },
+    {
+      "block": 1,
+      "step": 2,
+      "arm": "changing-first",
+      "expected": {
+        "id": "ITEM-002",
+        "amount": 1034
+      },
+      "answer": "{\"id\":\"ITEM-002\",\"amount\":1034}",
+      "passed": true,
+      "exit_code": 0,
+      "usage": {
+        "input_tokens": 24660,
+        "cached_input_tokens": 17024,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 16,
+        "reasoning_output_tokens": 0
+      },
+      "wall_seconds": 5.219
+    },
+    {
+      "block": 1,
+      "step": 3,
+      "arm": "changing-first",
+      "expected": {
+        "id": "ITEM-003",
+        "amount": 1051
+      },
+      "answer": "{\"id\":\"ITEM-003\",\"amount\":1051}",
+      "passed": true,
+      "exit_code": 0,
+      "usage": {
+        "input_tokens": 24660,
+        "cached_input_tokens": 17024,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 16,
+        "reasoning_output_tokens": 0
+      },
+      "wall_seconds": 5.922
+    },
+    {
+      "block": 1,
+      "step": 4,
+      "arm": "changing-first",
+      "expected": {
+        "id": "ITEM-004",
+        "amount": 1068
+      },
+      "answer": "{\"id\":\"ITEM-004\",\"amount\":1068}",
+      "passed": true,
+      "exit_code": 0,
+      "usage": {
+        "input_tokens": 24660,
+        "cached_input_tokens": 13440,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 16,
+        "reasoning_output_tokens": 0
+      },
+      "wall_seconds": 4.703
+    },
+    {
+      "block": 1,
+      "step": 1,
+      "arm": "stable-first",
+      "expected": {
+        "id": "ITEM-001",
+        "amount": 1017
+      },
+      "answer": "{\"id\":\"ITEM-001\",\"amount\":1017}",
+      "passed": true,
+      "exit_code": 0,
+      "usage": {
+        "input_tokens": 24662,
+        "cached_input_tokens": 13440,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 16,
+        "reasoning_output_tokens": 0
+      },
+      "wall_seconds": 5.094
+    },
+    {
+      "block": 1,
+      "step": 2,
+      "arm": "stable-first",
+      "expected": {
+        "id": "ITEM-002",
+        "amount": 1034
+      },
+      "answer": "{\"id\":\"ITEM-002\",\"amount\":1034}",
+      "passed": true,
+      "exit_code": 0,
+      "usage": {
+        "input_tokens": 24662,
+        "cached_input_tokens": 17024,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 16,
+        "reasoning_output_tokens": 0
+      },
+      "wall_seconds": 5.047
+    },
+    {
+      "block": 1,
+      "step": 3,
+      "arm": "stable-first",
+      "expected": {
+        "id": "ITEM-003",
+        "amount": 1051
+      },
+      "answer": "{\"id\":\"ITEM-003\",\"amount\":1051}",
+      "passed": true,
+      "exit_code": 0,
+      "usage": {
+        "input_tokens": 24662,
+        "cached_input_tokens": 13440,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 16,
+        "reasoning_output_tokens": 0
+      },
+      "wall_seconds": 5.265
+    },
+    {
+      "block": 1,
+      "step": 4,
+      "arm": "stable-first",
+      "expected": {
+        "id": "ITEM-004",
+        "amount": 1068
+      },
+      "answer": "{\"id\":\"ITEM-004\",\"amount\":1068}",
+      "passed": true,
+      "exit_code": 0,
+      "usage": {
+        "input_tokens": 24662,
+        "cached_input_tokens": 17024,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 16,
+        "reasoning_output_tokens": 0
+      },
+      "wall_seconds": 5.438
+    },
+    {
+      "block": 2,
+      "step": 5,
+      "arm": "stable-first",
+      "expected": {
+        "id": "ITEM-005",
+        "amount": 1085
+      },
+      "answer": "{\"id\":\"ITEM-005\",\"amount\":1085}",
+      "passed": true,
+      "exit_code": 0,
+      "usage": {
+        "input_tokens": 24662,
+        "cached_input_tokens": 24448,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 16,
+        "reasoning_output_tokens": 0
+      },
+      "wall_seconds": 5.734
+    },
+    {
+      "block": 2,
+      "step": 6,
+      "arm": "stable-first",
+      "expected": {
+        "id": "ITEM-006",
+        "amount": 1102
+      },
+      "answer": "{\"id\":\"ITEM-006\",\"amount\":1102}",
+      "passed": true,
+      "exit_code": 0,
+      "usage": {
+        "input_tokens": 24662,
+        "cached_input_tokens": 13440,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 16,
+        "reasoning_output_tokens": 0
+      },
+      "wall_seconds": 5.016
+    },
+    {
+      "block": 2,
+      "step": 7,
+      "arm": "stable-first",
+      "expected": {
+        "id": "ITEM-007",
+        "amount": 1119
+      },
+      "answer": "{\"id\":\"ITEM-007\",\"amount\":1119}",
+      "passed": true,
+      "exit_code": 0,
+      "usage": {
+        "input_tokens": 24662,
+        "cached_input_tokens": 18816,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 16,
+        "reasoning_output_tokens": 0
+      },
+      "wall_seconds": 6.172
+    },
+    {
+      "block": 2,
+      "step": 8,
+      "arm": "stable-first",
+      "expected": {
+        "id": "ITEM-008",
+        "amount": 1136
+      },
+      "answer": "{\"id\":\"ITEM-008\",\"amount\":1136}",
+      "passed": true,
+      "exit_code": 0,
+      "usage": {
+        "input_tokens": 24662,
+        "cached_input_tokens": 17024,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 16,
+        "reasoning_output_tokens": 0
+      },
+      "wall_seconds": 5.421
+    },
+    {
+      "block": 2,
+      "step": 5,
+      "arm": "changing-first",
+      "expected": {
+        "id": "ITEM-005",
+        "amount": 1085
+      },
+      "answer": "{\"id\":\"ITEM-005\",\"amount\":1085}",
+      "passed": true,
+      "exit_code": 0,
+      "usage": {
+        "input_tokens": 24660,
+        "cached_input_tokens": 17024,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 16,
+        "reasoning_output_tokens": 0
+      },
+      "wall_seconds": 4.938
+    },
+    {
+      "block": 2,
+      "step": 6,
+      "arm": "changing-first",
+      "expected": {
+        "id": "ITEM-006",
+        "amount": 1102
+      },
+      "answer": "{\"id\":\"ITEM-006\",\"amount\":1102}",
+      "passed": true,
+      "exit_code": 0,
+      "usage": {
+        "input_tokens": 24660,
+        "cached_input_tokens": 17024,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 16,
+        "reasoning_output_tokens": 0
+      },
+      "wall_seconds": 5.094
+    },
+    {
+      "block": 2,
+      "step": 7,
+      "arm": "changing-first",
+      "expected": {
+        "id": "ITEM-007",
+        "amount": 1119
+      },
+      "answer": "{\"id\":\"ITEM-007\",\"amount\":1119}",
+      "passed": true,
+      "exit_code": 0,
+      "usage": {
+        "input_tokens": 24660,
+        "cached_input_tokens": 18816,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 16,
+        "reasoning_output_tokens": 0
+      },
+      "wall_seconds": 5.343
+    },
+    {
+      "block": 2,
+      "step": 8,
+      "arm": "changing-first",
+      "expected": {
+        "id": "ITEM-008",
+        "amount": 1136
+      },
+      "answer": "{\"id\":\"ITEM-008\",\"amount\":1136}",
+      "passed": true,
+      "exit_code": 0,
+      "usage": {
+        "input_tokens": 24660,
+        "cached_input_tokens": 13440,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 16,
+        "reasoning_output_tokens": 0
+      },
+      "wall_seconds": 6.063
+    },
+    {
+      "block": 3,
+      "step": 9,
+      "arm": "changing-first",
+      "expected": {
+        "id": "ITEM-009",
+        "amount": 1153
+      },
+      "answer": "{\"id\":\"ITEM-009\",\"amount\":1153}",
+      "passed": true,
+      "exit_code": 0,
+      "usage": {
+        "input_tokens": 24660,
+        "cached_input_tokens": 17024,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 16,
+        "reasoning_output_tokens": 0
+      },
+      "wall_seconds": 5.844
+    },
+    {
+      "block": 3,
+      "step": 10,
+      "arm": "changing-first",
+      "expected": {
+        "id": "ITEM-010",
+        "amount": 1170
+      },
+      "answer": "{\"id\":\"ITEM-010\",\"amount\":1170}",
+      "passed": true,
+      "exit_code": 0,
+      "usage": {
+        "input_tokens": 24660,
+        "cached_input_tokens": 13440,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 16,
+        "reasoning_output_tokens": 0
+      },
+      "wall_seconds": 6.89
+    },
+    {
+      "block": 3,
+      "step": 11,
+      "arm": "changing-first",
+      "expected": {
+        "id": "ITEM-011",
+        "amount": 1187
+      },
+      "answer": "{\"id\":\"ITEM-011\",\"amount\":1187}",
+      "passed": true,
+      "exit_code": 0,
+      "usage": {
+        "input_tokens": 24660,
+        "cached_input_tokens": 17024,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 16,
+        "reasoning_output_tokens": 0
+      },
+      "wall_seconds": 5.313
+    },
+    {
+      "block": 3,
+      "step": 12,
+      "arm": "changing-first",
+      "expected": {
+        "id": "ITEM-012",
+        "amount": 1204
+      },
+      "answer": "{\"id\":\"ITEM-012\",\"amount\":1204}",
+      "passed": true,
+      "exit_code": 0,
+      "usage": {
+        "input_tokens": 24660,
+        "cached_input_tokens": 13440,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 16,
+        "reasoning_output_tokens": 0
+      },
+      "wall_seconds": 5.953
+    },
+    {
+      "block": 3,
+      "step": 9,
+      "arm": "stable-first",
+      "expected": {
+        "id": "ITEM-009",
+        "amount": 1153
+      },
+      "answer": "{\"id\":\"ITEM-009\",\"amount\":1153}",
+      "passed": true,
+      "exit_code": 0,
+      "usage": {
+        "input_tokens": 24662,
+        "cached_input_tokens": 17024,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 16,
+        "reasoning_output_tokens": 0
+      },
+      "wall_seconds": 4.812
+    },
+    {
+      "block": 3,
+      "step": 10,
+      "arm": "stable-first",
+      "expected": {
+        "id": "ITEM-010",
+        "amount": 1170
+      },
+      "answer": "{\"id\":\"ITEM-010\",\"amount\":1170}",
+      "passed": true,
+      "exit_code": 0,
+      "usage": {
+        "input_tokens": 24662,
+        "cached_input_tokens": 13440,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 16,
+        "reasoning_output_tokens": 0
+      },
+      "wall_seconds": 6.344
+    },
+    {
+      "block": 3,
+      "step": 11,
+      "arm": "stable-first",
+      "expected": {
+        "id": "ITEM-011",
+        "amount": 1187
+      },
+      "answer": "{\"id\":\"ITEM-011\",\"amount\":1187}",
+      "passed": true,
+      "exit_code": 0,
+      "usage": {
+        "input_tokens": 24662,
+        "cached_input_tokens": 13440,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 16,
+        "reasoning_output_tokens": 0
+      },
+      "wall_seconds": 5.36
+    },
+    {
+      "block": 3,
+      "step": 12,
+      "arm": "stable-first",
+      "expected": {
+        "id": "ITEM-012",
+        "amount": 1204
+      },
+      "answer": "{\"id\":\"ITEM-012\",\"amount\":1204}",
+      "passed": true,
+      "exit_code": 0,
+      "usage": {
+        "input_tokens": 24662,
+        "cached_input_tokens": 17024,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 16,
+        "reasoning_output_tokens": 0
+      },
+      "wall_seconds": 5.844
+    }
+  ]
+}
