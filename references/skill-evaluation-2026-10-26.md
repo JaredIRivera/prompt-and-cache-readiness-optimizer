@@ -35,6 +35,6 @@ From the root of a separate checkout with a signed-in Codex CLI:
 python evals/skill-evaluation.py
 ```
 
-The script reads the checkout's current `SKILL.md`, makes eight rewrite calls and 16 execution calls, consumes account allowance, and overwrites `evals/skill-evaluation-results.json`. Running it on version 1.1.0 evaluates the new instructions. Use [the historical source commit](https://github.com/JaredIRivera/prompt-optimizer/tree/141d90dcf26e4164df7f11762852e2c7f02e7e38) to inspect the earlier inputs; a changing model alias and assistant environment can still change new results.
+The script reads the checkout's current `SKILL.md`, makes eight rewrite calls and 16 execution calls, consumes account allowance, and overwrites `evals/skill-evaluation-results.json`. Running it on version 1.1.0 evaluates the new instructions. The earlier source commit is not included in this fresh repository history; saved prompts and responses remain available in the results file. A changing model alias and assistant environment can still change new results.
 
 The script records individual failures but does not fail its overall process when an answer check fails. Inspect the saved cases and scores. The original score stays 7/8; any new semantic scoring rule must be defined before another run.
