@@ -24,7 +24,7 @@ A fingerprint is a calculated value used to detect content changes. Other techni
 You need Git and Python 3.10 or later. From a terminal:
 
 ```bash
-git clone https://github.com/JaredIRivera/prompt-optimizer.git
+git clone https://github.com/JaredIRivera/prompt-and-cache-readiness-optimizer.git prompt-optimizer
 cd prompt-optimizer
 python scripts/compile_prompt_modules.py
 python scripts/benchmark_prompts.py
